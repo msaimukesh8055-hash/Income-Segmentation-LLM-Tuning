@@ -1,4 +1,4 @@
-# Text Classification with Gemini (LLM Tuning) — Income Segmentation
+# Text Classification with Gemini (LLM Tuning) : Income Segmentation
 
 ### 1. Project Overview  
 Tuned **Gemini** in Vertex AI Studio to classify households into **Low / Medium / High** income bands from profile attributes. The tuned model serves instant classifications via an endpoint, replacing slow, manual segmentation.
